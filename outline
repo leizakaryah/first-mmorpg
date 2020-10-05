@@ -1,0 +1,10 @@
+scenes:
+    boot: load assets
+    title: title, play button
+    game: main logic
+    ui: display current gold count
+
+classes:
+    player: player game object, handle player input
+    chest: chest game object, how much gold
+
